@@ -1,6 +1,6 @@
 # Dropbox Paper Desktop v1.1 (Jan 22, 2017)
 
-Unofficial Dropbox Paper desktop client for OSX and Windows, built with [Electron](http://electron.atom.io/).
+Unofficial Dropbox Paper desktop client for OSX, built with [Electron](http://electron.atom.io/).
 
 ![alt text](https://raw.githubusercontent.com/anaqi/Dropbox-Paper-Desktop/master/assets/screenshot.png)
 
