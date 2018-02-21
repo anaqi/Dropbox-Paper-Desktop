@@ -1,4 +1,4 @@
-# Dropbox Paper Desktop v1.1 (Jan 22, 2017)
+# Dropbox Paper Desktop v1.1 (Feb 21, 2018)
 
 Unofficial Dropbox Paper desktop client for OSX, built with [Electron](http://electron.atom.io/).
 
@@ -12,7 +12,7 @@ Unofficial Dropbox Paper desktop client for OSX, built with [Electron](http://el
 
 # Changes
 
-v1.1 (Jan 22, 2017)
+v1.1 (Feb 21, 2018)
   - Updated electron to latest version, 1.8.2
   - Bug fixes
   - Fixed login issues
